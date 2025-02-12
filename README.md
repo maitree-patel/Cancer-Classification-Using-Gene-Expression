@@ -1,4 +1,5 @@
 # Cancer-Classification-Using-Gene-Expression
+(Currently in progress...)
 ## Background
 Leukemia is a cancer of blood, or more specifically blood forming tissues including bone marrow, that causes abnormality of blood cells. Many types of Leukemia exists characterised by the type of blood cell the cancer is localized in as well as its prognosis. The bone marrow makes immature blood cells called blood stem cells which then form mature blood cells. The stem cell can become a myeloid or lymphoid stem cell eventually turning into mature red blood cells (or platelets) and white blood cells respectively.
 
@@ -14,8 +15,6 @@ i.e. **class prediction**) using gene expression data.
 Source: https://www.kaggle.com/datasets/crawford/gene-expression/data
 
 Additionally, secondary goal of this project was to perform **differential gene expression analysis** to study the differences in gene expression between the two cancers.
-
-(Currently in progress...)
 
 ## References
 1. https://www.cancer.gov/types/leukemia
