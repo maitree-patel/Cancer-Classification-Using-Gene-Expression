@@ -16,6 +16,12 @@ Source: https://www.kaggle.com/datasets/crawford/gene-expression/data
 
 Additionally, secondary goal of this project was to perform **differential gene expression analysis** to study the differences in gene expression between the two cancers.
 
+## Results and Conclusions
+### Gene Expression Heatmap
+![AMLheatmap](https://github.com/user-attachments/assets/3eee94da-25b2-4717-baa7-a77ca56701c1)
+![ALLheatmap](https://github.com/user-attachments/assets/bb05f3c8-1b31-4204-8c24-849f7dc22143)
+
+
 ## References
 1. https://www.cancer.gov/types/leukemia
 2. https://www.cancercenter.com/community/blog/2024/03/aml-vs-all
