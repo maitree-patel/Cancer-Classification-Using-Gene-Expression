@@ -18,9 +18,8 @@ Additionally, secondary goal of this project was to perform **differential gene 
 
 ## Results and Conclusions
 ### Gene Expression Heatmap
-![AMLheatmap](https://github.com/user-attachments/assets/3eee94da-25b2-4717-baa7-a77ca56701c1)
-![ALLheatmap](https://github.com/user-attachments/assets/bb05f3c8-1b31-4204-8c24-849f7dc22143)
-
+![AMLheatmap](https://github.com/user-attachments/assets/60e88b12-35a2-4118-975a-48ceb9a43ad1)
+![ALLheatmap](https://github.com/user-attachments/assets/1993666f-d52c-4d9f-bd37-1ea21837e369)
 
 ## References
 1. https://www.cancer.gov/types/leukemia
